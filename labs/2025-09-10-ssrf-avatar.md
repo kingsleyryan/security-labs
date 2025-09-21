@@ -19,8 +19,8 @@ Date: 2025-09-10
 - Confirmed that the server trusted unvalidated avatar input and fetched private resources.
 
 ## Screenshots
-- ![SSRF Lab output](../Screenshots/2025-09-10-ssrf-avatar.png)
-- ![Source code with Base64](../Screenshots/2025-09-10-ssrf-sourcecode.png)
+- ![SSRF Lab output](../screenshots/2025-09-10-ssrf-avatar.png)
+- ![Source code with Base64](../screenshots/2025-09-10-ssrf-sourcecode.png)
 
 ## What I Learned
 - SSRF occurs when user input is used in server-side fetchers (like avatar loaders).

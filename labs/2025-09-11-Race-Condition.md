@@ -15,8 +15,10 @@
 - Flag successfully captured
 
 ## Screenshots
-- ![Task 1# output](../Screenshots/2025-09-18-Bank-Web-App.png)
-- ![Task #2 output](../Screenshots/2025-09-18-Burpsuite.png)
+- ![Bank Web App Task](../screenshots/2025-09-18-Bank-Web-App.png)
+- ![Burp Suite Task](../screenshots/2025-09-18-Burpsuite.png)
+
+
 
 
 ## What I Learned

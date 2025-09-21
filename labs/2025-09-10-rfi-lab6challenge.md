@@ -19,7 +19,7 @@ Date: 2025-09-10
 - Output revealed the victim machine’s hostname (proving code execution).
 
 ## Screenshots
-- ![Lab #6 output](../Screenshots/2025-09-10-rfi-lab6.png)
+- ![Lab #6 output](../screenshots/2025-09-10-rfi-lab6.png)
 
 ## What I Learned
 - RFI lets an attacker load remote files into the server’s process.

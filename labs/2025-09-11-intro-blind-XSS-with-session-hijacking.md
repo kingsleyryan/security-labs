@@ -19,9 +19,9 @@ Payload was designed to exfiltrate the victim’s session cookie once the admin/
 - Decoded the stolen staff session cookie, proving session hijacking was possible.
 
 ## Screenshots
-- ![Netcat Listener](../Screenshots/2025-09-11-xss-blind-listener.png)  
-- ![Acme Ticket Payload Submission](../Screenshots/2025-09-11-xss-blind-ticket.png)  
-- ![Decoded Session Cookie](../Screenshots/2025-09-11-xss-blind-decoded.png)
+- ![Netcat Listener](../screenshots/2025-09-11-xss-blind-listener.png)  
+- ![Acme Ticket Payload Submission](../screenshots/2025-09-11-xss-blind-ticket.png)  
+- ![Decoded Session Cookie](../screenshots/2025-09-11-xss-blind-decoded.png)
 
 ## What I Learned
 - XSS allows attackers to inject malicious scripts into web applications.
