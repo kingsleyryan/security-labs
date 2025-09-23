@@ -24,7 +24,8 @@ Copy code
 Notes: Performed in a safe TryHackMe environment. Error-based SQLi allowed enumeration of the table.
 
 **Screenshots:**
-![Level 1 Error-Based SQLi](./screenshot/level1/2025-09-23-Error-Based-SQLi.png)
+![Level 1 Error-Based SQLi](../screenshot/level1/2025-09-23-Error-Based-SQLi.png)
+
 
 
 
